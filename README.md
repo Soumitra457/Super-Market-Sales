@@ -61,8 +61,8 @@ This dashboard helps supermarket stakeholders to:
 
 <img width="1325" height="752" alt="Screenshot 2025-09-26 183023" src="https://github.com/user-attachments/assets/5da00827-0dc0-43a5-b682-2d5d69ced581" />
 
+<img width="1319" height="746" alt="Screenshot 2025-09-26 183034" src="https://github.com/user-attachments/assets/fe4e4211-49dc-4140-bc12-c5ad6a482550" />
 
-![Uploading Screenshot 2025-09-26 183034.png…]()
 
 
 
